@@ -1,20 +1,20 @@
 {
-   "name": "Tic-Tac-Toe",
-   "version": "1.0.0",
-   "description": "",
-    "scripts": {
+     "name": "cc",
+     "version": "1.0.0",
+     "description": "",
+     "scripts": {
         "build": "echo \"No build specified\" && exit 1",
-       "test": "echo \"No test specified\" && exit 1",
-       "start": "node index.js"
+         "test": "echo \"No test specified\" && exit 1",
+         "start": "node index.js"
+     },
+     "repository": {
+         "type": "git",
+         "url": "git+https://github.com/Sneha-Srivastava/cc.git"
+     },
+     "author": "",
+     "license": "ISC",
+    "bugs": {
+          "url": "https://github.com/Sneha-Srivastava/cc/issues"
    },
-   "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Sneha-Srivastava/Tic-Tac-Toe.git"
-    },
-   "author": "",
-   "license": "ISC",
-   "bugs": {
-       "url": "https://github.com/Sneha-Srivastava/Tic-Tac-Toe/issues"
-   },
-     "homepage": "https://github.com/Sneha-Srivastava/Tic-Tac-Toe#readme"
-}
+    "homepage": "https://github.com/Sneha-Srivastava/cc#readme"
+ }
